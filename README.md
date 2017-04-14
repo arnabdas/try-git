@@ -1,6 +1,6 @@
 # Try-Git
 
-This is a repository for learning [Git](https://git-scm.com/). I've been using Git at-least for the last four years. But never been into deeper understanding of this amazing tool. Now, learning some cool tricks from [Master Git](https://www.packtpub.com/application-development/mastering-git).
+This is a repository for learning [Git](https://git-scm.com/). I've been using Git at-least for the last four years. But never been into deeper understanding of this amazing tool. Now, learning some cool tricks from [Mastering Git](https://www.packtpub.com/application-development/mastering-git).
 
 ## License
 
